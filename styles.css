@@ -12,3 +12,13 @@ body {
 .funParagraph {
     color: green;
 }
+
+#postGrad {
+    padding-left: 700px;
+    padding-right: 700px;
+}
+
+h2 {
+    text-align: center;
+    background-color: dimgray;
+}
