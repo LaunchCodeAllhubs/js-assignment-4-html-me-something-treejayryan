@@ -22,3 +22,14 @@ h2 {
     text-align: center;
     background-color: dimgray;
 }
+
+footer {
+    padding-top: 20px;
+}
+
+img {
+    height: 10%;
+    width: 10%;
+    border: black;
+    border-style: outset;
+}
